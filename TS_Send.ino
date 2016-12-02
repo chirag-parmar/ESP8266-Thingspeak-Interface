@@ -36,7 +36,7 @@ void loop() {
            Serial.println("Button status updated successfully");
         }
         else {
-            Serial.printf("Failed to fetch data: %s\n", http.errorToString(httpCode).c_str());
+            Serial.printf("Failed to send data: %s\n", http.errorToString(httpCode).c_str());
         }
         http.end();
         
