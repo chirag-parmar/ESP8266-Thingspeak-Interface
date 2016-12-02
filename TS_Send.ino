@@ -6,7 +6,7 @@
 #include <ESP8266WiFiMulti.h>
 #include <ESP8266HTTPClient.h>
 
-buttonpin = 2;
+int buttonpin = 2;
 
 ESP8266WiFiMulti WiFiMulti;
 
