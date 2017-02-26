@@ -3,4 +3,4 @@ Arduino Program that sends and receives data to and from Thingspeak Account usin
 
 *NOTE: you must create a thingspeak account and generate a API Key inorder to exceute the program.*
 
-*will shortly update with a interface diagram to program the ESP8266*
+*look for ESP8266 Development Board Repository to program your ESP8266-01 using Arduino-UNO R3*
